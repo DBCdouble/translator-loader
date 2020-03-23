@@ -1,4 +1,4 @@
-# translate-loader
+# translator-loader
 
 A Webpack Loader For Translate.
 
@@ -9,7 +9,7 @@ Compatible with Webpack
 ## Install
 
 ```bash
-npm i translate-loader -D
+npm i translator-loader -D
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm i translate-loader -D
 ```
 {
     test: /\.(js|vue)$/,
-    loader: 'translate-loader',
+    loader: 'translator-loader',
 }
 ```
 
@@ -29,6 +29,6 @@ npm i translate-loader -D
 ```
 {
     test: /\.(js|jsx)$/,
-    loader: 'translate-loader',
+    loader: 'translator-loader',
 }
 ```
