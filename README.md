@@ -4,7 +4,7 @@ A Webpack Loader For Translate.
 
 ## Features
 
-* Compatible with Webpack
+Compatible with Webpack
 
 ## Install
 
@@ -19,7 +19,7 @@ npm i translate-loader -D
 ```
 {
     test: /\.(js|vue)$/,
-    loader: 'language-tw-loader',
+    loader: 'translate-loader',
 }
 ```
 
@@ -29,6 +29,6 @@ npm i translate-loader -D
 ```
 {
     test: /\.(js|jsx)$/,
-    loader: 'language-tw-loader',
+    loader: 'translate-loader',
 }
 ```
