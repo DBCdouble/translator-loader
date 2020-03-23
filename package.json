@@ -1,0 +1,20 @@
+{
+  "name": "translator-loader",
+  "version": "1.0.0",
+  "description": "a webpack loader for translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "translate"
+  ],
+  "author": "DBCdouble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBCdouble/translator-loader/issues"
+  },
+  "homepage": "https://github.com/DBCdouble/translator-loader#readme"
+}
